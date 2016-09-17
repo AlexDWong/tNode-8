@@ -1,0 +1,6 @@
+# EAGLE Files #
+*.lck
+
+# General Ignore #
+*.xls
+*.xlsx
